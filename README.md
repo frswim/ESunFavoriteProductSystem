@@ -1,6 +1,6 @@
 When you need to run beack-end, please following this code and copy on terminal:
-dotnet run
+<pre> ```dotnet run ``` </pre>
 When you need to run front-end, please following these step and copy on terminal:
-cd ./ClientApp
+<pre> ```bash cd ClientApp npm install npm run dev ``` </pre>
 npm install
 npm run dev
